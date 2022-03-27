@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Finish/Finish.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Finish/Finish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 5- Interfaces/Finish/Finish1.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 5- Interfaces/Finish/Finish1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 3- Refactoring/Finish/Finish2.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 3- Refactoring/Finish/Finish2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Finish/Finish3.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Finish/Finish3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 5- Interfaces/Finish/MyTube/MyTube.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 5- Interfaces/Finish/MyTube/MyTube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 1- Hello World/Section 1- Hello World.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 1- Hello World/Section 1- Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 2- Classes/Section 2- Classes.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 2- Classes/Section 2- Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 2- Types/Section 2- Types.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 2- Types/Section 2- Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 4- Inheritance/Section 4- Inheritance.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 4- Inheritance/Section 4- Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Start/Start.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 3- Control Flow/Start/Start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Start/Start1.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 1/Section 4- Clean Coding/Start/Start1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 3- Refactoring/Start/Start2.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 3- Refactoring/Start/Start2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 2/Section 5- Interfaces/Start/Start3.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 2/Section 5- Interfaces/Start/Start3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ultimate Java - Part 3/Ultimate Java - Part 3.iml" filepath="$PROJECT_DIR$/Ultimate Java - Part 3/Ultimate Java - Part 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code_with_mosh_ultimate_java.iml" filepath="$PROJECT_DIR$/.idea/code_with_mosh_ultimate_java.iml" />
+    </modules>
+  </component>
+</project>
